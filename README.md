@@ -71,7 +71,7 @@ The application provides the following visualizations in the Data Analysis tab:
 
 4. **Trip Type Distribution**: Pie chart illustrating the distribution of trip types
    
-   ![Trip Type Distribution](/images/trip_type_distribution)
+   ![Trip Type Distribution](./images/trip_type_distribution)
 
 6. **Average Total Amount by Weekday**: Bar chart comparing average fare amounts across different days
    
