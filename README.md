@@ -57,33 +57,31 @@ This application provides a comprehensive platform for exploring, analyzing, and
 
 The application provides the following visualizations in the Data Analysis tab:
 
-1. **Trips by Day of Week**: Bar chart showing the distribution of trips across each day of the week
-   
-   ![Trips by Day of Week](/images/)
+1. **Trips by Day of Week**: Bar chart showing the distribution of trips across each day of the week  
+   ![Trips by Day of Week](/images/Tip_Percentage_Distribution_by_Weekday.png)
 
-2. **Trips by Hour of Day**: Bar chart displaying the hourly distribution of trips
+2. **Trips by Hour of Day**: Bar chart displaying the hourly distribution of trips  
+   ![Trips by Hour of Day](/images/Average_Fare_by_Hour_of_Day.png)
 
-![Trips by Hour of Day](/images/Average_Fare_by_Hour_of_Day)
+3. **Payment Type Distribution**: Pie chart showing the breakdown of payment methods used  
+   ![Payment Type Distribution](/images/payment_type_distribution.png)
 
-3. **Payment Type Distribution**: Pie chart showing the breakdown of payment methods used
-   
-   ![Payment Type Distribution](/api/placeholder/400/400 "Pie Chart of Payment Types")
+4. **Trip Type Distribution**: Pie chart illustrating the distribution of trip types  
+   ![Trip Type Distribution](/images/trip_type_distribution.png)
 
-4. **Trip Type Distribution**: Pie chart illustrating the distribution of trip types
-   
-   ![Trip Type Distribution]("/images/trip_type_distribution")
+5. **Average Total Amount by Weekday**: Bar chart comparing average fare amounts across different days  
+   ![Average Amount by Weekday](/images/Average_Fare_by_Day_of_Week.png)
 
-6. **Average Total Amount by Weekday**: Bar chart comparing average fare amounts across different days
-   
-   ![Average Amount by Weekday](/api/placeholder/600/300 "Bar Chart of Average Amount by Weekday")
+6. **Correlation Matrix**: Heatmap showing correlations between numerical variables  
+   ![Correlation Matrix](/images/correlation_matrix.png) <!-- Replace with actual file if needed -->
 
-7. **Correlation Matrix**: Heatmap showing correlations between numerical variables
-   
-   ![Correlation Matrix](/api/placeholder/650/650 "Heatmap of Correlation Matrix")
+7. **Total Amount Analysis**: Histogram, boxplot, and density curve of total fare amounts  
+   ![Total Amount Analysis](/images/total_amount_analysis.png) <!-- Replace with actual file if needed -->
+
 
 8. **Total Amount Analysis**: Histogram, boxplot, and density curve of total fare amounts
    
-   ![Total Amount Analysis](/api/placeholder/700/250 "Total Amount Distribution Analysis")
+   ![Total Amount Analysis](/images/Total Amount Distribution Analysis.png")
 
 ### Model Building Tab
 
