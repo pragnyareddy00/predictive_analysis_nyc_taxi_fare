@@ -79,9 +79,6 @@ The application provides the following visualizations in the Data Analysis tab:
    ![Total Amount Analysis](/images/total_amount_analysis.png) <!-- Replace with actual file if needed -->
 
 
-8. **Total Amount Analysis**: Histogram, boxplot, and density curve of total fare amounts
-   
-   ![Total Amount Analysis](/images/Total Amount Distribution Analysis.png")
 
 ### Model Building Tab
 
