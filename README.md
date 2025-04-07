@@ -62,8 +62,8 @@ The application provides the following visualizations in the Data Analysis tab:
    ![Trips by Day of Week](/images/)
 
 2. **Trips by Hour of Day**: Bar chart displaying the hourly distribution of trips
-   
-   ![Trips by Hour of Day](/api/placeholder/600/300 "Bar Chart of Trips by Hour of Day")
+
+![Trips by Hour of Day](/images/Average_Fare_by_Hour_of_Day)
 
 3. **Payment Type Distribution**: Pie chart showing the breakdown of payment methods used
    
@@ -71,7 +71,7 @@ The application provides the following visualizations in the Data Analysis tab:
 
 4. **Trip Type Distribution**: Pie chart illustrating the distribution of trip types
    
-   ![Trip Type Distribution](./images/trip_type_distribution)
+   ![Trip Type Distribution]("/images/trip_type_distribution")
 
 6. **Average Total Amount by Weekday**: Bar chart comparing average fare amounts across different days
    
