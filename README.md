@@ -10,7 +10,6 @@ This application provides a comprehensive platform for exploring, analyzing, and
 2. **Model Building**: Train and evaluate regression models to predict fare amounts
 3. **Prediction**: Estimate total fare amounts for new trips based on user inputs
 
-![Application Main Interface](/api/placeholder/800/400 "NYC Green Taxi Analysis App Interface")
 
 ## Installation
 
