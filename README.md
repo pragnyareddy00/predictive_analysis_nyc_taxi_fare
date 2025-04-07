@@ -59,7 +59,7 @@ The application provides the following visualizations in the Data Analysis tab:
 
 1. **Trips by Day of Week**: Bar chart showing the distribution of trips across each day of the week
    
-   ![Trips by Day of Week](/api/placeholder/600/300 "Bar Chart of Trips by Day of Week")
+   ![Trips by Day of Week](/images/)
 
 2. **Trips by Hour of Day**: Bar chart displaying the hourly distribution of trips
    
@@ -71,17 +71,17 @@ The application provides the following visualizations in the Data Analysis tab:
 
 4. **Trip Type Distribution**: Pie chart illustrating the distribution of trip types
    
-   ![Trip Type Distribution](/api/placeholder/400/400 "Pie Chart of Trip Types")
+   ![Trip Type Distribution](/images/trip_type_distribution)
 
-5. **Average Total Amount by Weekday**: Bar chart comparing average fare amounts across different days
+6. **Average Total Amount by Weekday**: Bar chart comparing average fare amounts across different days
    
    ![Average Amount by Weekday](/api/placeholder/600/300 "Bar Chart of Average Amount by Weekday")
 
-6. **Correlation Matrix**: Heatmap showing correlations between numerical variables
+7. **Correlation Matrix**: Heatmap showing correlations between numerical variables
    
    ![Correlation Matrix](/api/placeholder/650/650 "Heatmap of Correlation Matrix")
 
-7. **Total Amount Analysis**: Histogram, boxplot, and density curve of total fare amounts
+8. **Total Amount Analysis**: Histogram, boxplot, and density curve of total fare amounts
    
    ![Total Amount Analysis](/api/placeholder/700/250 "Total Amount Distribution Analysis")
 
