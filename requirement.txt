@@ -1,4 +1,3 @@
-# Core dependencies
 streamlit
 pandas
 numpy
@@ -6,30 +5,16 @@ matplotlib
 seaborn
 scipy
 scikit-learn
-
-# Machine Learning and Modeling
 scikit-learn
 statsmodels
-
-# File and data handling
-pickle-mixin   # Optional: for compatibility when dealing with pickle files
-python-dateutil  # Good for date parsing if needed
-
-# Interactive Visualizations (optional, useful for Streamlit apps)
+pickle-mixin
+python-dateutil
 plotly
-
-# Optional: notebook development
 jupyter
 ipykernel
-
-# Optional: deployment and server
 gunicorn
-
-# Optional: Streamlit extras
 folium
 streamlit-folium
-
-# Optional: other useful tools
 openpyxl         # For Excel file reading
 xlrd             # For old-style Excel files (.xls)
 xgboost          # Another powerful ML algorithm
