@@ -64,21 +64,19 @@ The application provides the following visualizations in the Data Analysis tab:
 
 ## 📊 Key Visualizations
 
-Some visual insights from the app:
+<table>
+  <tr>
+    <td><img src="images/Tip_Percentage_Distribution_by_Weekday.png" height="150"></td>
+    <td><img src="images/Average_Fare_by_Hour_of_Day.png" height="150"></td>
+    <td><img src="images/payment_type_distribution.png" height="150"></td>
+  </tr>
+  <tr>
+    <td><img src="images/trip_type_distribution.png" height="150"></td>
+    <td><img src="images/Average_Fare_by_Day_of_Week.png" height="150"></td>
+    <td><img src="images/correlation_matrix.png" height="150"></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="images/Tip_Percentage_Distribution_by_Weekday.png" alt="Trips by Day" width="200"/>
-  <img src="images/Average_Fare_by_Hour_of_Day.png" alt="Trips by Hour" width="200"/>
-  <img src="images/payment_type_distribution.png" alt="Payment Types" width="200"/>
-</p>
-
-<p align="center">
-  <img src="images/trip_type_distribution.png" alt="Trip Types" width="200"/>
-  <img src="images/Average_Fare_by_Day_of_Week.png" alt="Average Fare by Day" width="200"/>
-  <img src="images/correlation_matrix.png" alt="Correlation Matrix" width="200"/>
-</p>
-
-> 🧠 Additional charts include fare amount distribution and fare prediction breakdowns.
 
 ## 🗂️ Expected Data Format
 
