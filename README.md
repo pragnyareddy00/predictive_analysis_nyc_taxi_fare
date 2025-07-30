@@ -62,28 +62,23 @@ Top features: trip distance, duration, time, passengers.
 
 The application provides the following visualizations in the Data Analysis tab:
 
-1. **Trips by Day of Week**: Bar chart showing the distribution of trips across each day of the week  
-   ![Trips by Day of Week](/images/Tip_Percentage_Distribution_by_Weekday.png)
+## 📊 Key Visualizations
 
-2. **Trips by Hour of Day**: Bar chart displaying the hourly distribution of trips  
-   ![Trips by Hour of Day](/images/Average_Fare_by_Hour_of_Day.png)
+Some visual insights from the app:
 
-3. **Payment Type Distribution**: Pie chart showing the breakdown of payment methods used  
-   ![Payment Type Distribution](/images/payment_type_distribution.png)
+<p align="center">
+  <img src="images/Tip_Percentage_Distribution_by_Weekday.png" alt="Trips by Day" width="200"/>
+  <img src="images/Average_Fare_by_Hour_of_Day.png" alt="Trips by Hour" width="200"/>
+  <img src="images/payment_type_distribution.png" alt="Payment Types" width="200"/>
+</p>
 
-4. **Trip Type Distribution**: Pie chart illustrating the distribution of trip types  
-   ![Trip Type Distribution](/images/trip_type_distribution.png)
+<p align="center">
+  <img src="images/trip_type_distribution.png" alt="Trip Types" width="200"/>
+  <img src="images/Average_Fare_by_Day_of_Week.png" alt="Average Fare by Day" width="200"/>
+  <img src="images/correlation_matrix.png" alt="Correlation Matrix" width="200"/>
+</p>
 
-5. **Average Total Amount by Weekday**: Bar chart comparing average fare amounts across different days  
-   ![Average Amount by Weekday](/images/Average_Fare_by_Day_of_Week.png)
-
-6. **Correlation Matrix**: Heatmap showing correlations between numerical variables  
-   ![Correlation Matrix](/images/correlation_matrix.png) <!-- Replace with actual file if needed -->
-
-7. **Total Amount Analysis**: Histogram, boxplot, and density curve of total fare amounts  
-   ![Total Amount Analysis](/images/total_amount_analysis.png) <!-- Replace with actual file if needed -->
-
-
+> 🧠 Additional charts include fare amount distribution and fare prediction breakdowns.
 
 ## 🗂️ Expected Data Format
 
