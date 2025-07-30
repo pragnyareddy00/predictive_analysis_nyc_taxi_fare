@@ -15,6 +15,10 @@ The app includes:
 
 ---
 
+![Data Analysis Overview](images/data_analysis_overview.png)
+*Visual insights on trip patterns, payments, and fares*
+
+
 ## ⚙️ Installation
 
 ### Requirements
