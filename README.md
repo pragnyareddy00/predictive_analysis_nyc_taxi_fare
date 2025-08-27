@@ -1,5 +1,5 @@
 
-# NYC Green Taxi Analysis 🚖
+# NYC Taxi Fare Prediction System 🚖
 
 A **Streamlit** application to analyze NYC Green Taxi trip data, build fare prediction models, and estimate total amounts interactively.
 
